@@ -1,0 +1,8 @@
+SeleniumFrameworkPractice\pageobjects\ConfirmationPage.class
+SeleniumFrameworkPractice\pageobjects\App.class
+SeleniumFrameworkPractice\pageobjects\CartPage.class
+SeleniumFrameworkDesign\AbstractComponents\AbstractComponents.class
+SeleniumFrameworkPractice\pageobjects\CheckoutPage.class
+SeleniumFrameworkPractice\pageobjects\OrdersPage.class
+SeleniumFrameworkPractice\pageobjects\ProductCatalogue.class
+SeleniumFrameworkPractice\pageobjects\LandingPage.class
